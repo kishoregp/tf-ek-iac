@@ -4,10 +4,9 @@
 
 * Architecture of Jenkins on AWS
 * Create Jenkins CI server using Terraform
-* Create EKS cluster for provisioining Jenkins slaves on demand
-* Configure Jenkins master
-* Create job to trigger pipeline from application repo
+* Create EKS cluster for provisioining Jenkins slaves using Terraform
+* Configure Jenkins master to use EKS Cluster for creating worker nodes
+* Create job to trigger pipeline from application repo using pod templates
 
 ## Architecture of Jenkins on AWS
-
 
