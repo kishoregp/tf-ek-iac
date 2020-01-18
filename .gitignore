@@ -1,0 +1,30 @@
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+*.bak
+
+# Local .vscode config files
+**/.vscode/*
+
+
+
+**/inspec.lock
+*.gem
+.kitchen/
+.kitchen.local.yml
+Gemfile.lock
+terraform.tfstate.d/
+eks-admin-cluster-role-binding.yaml
+eks-admin-service-account.yaml
+.idea/
+*.iml
+config-map-aws-auth*.yaml
+kubeconfig_*
+
+.DS_Store
