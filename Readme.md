@@ -10,3 +10,4 @@
 
 ## Architecture of Jenkins on AWS
 
+![Image description](./JenkinsOnAWS.jpg)
